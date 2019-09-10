@@ -27,3 +27,5 @@
 + Или плюсами
 
 ![kartinka](https://static1-repo.aif.ru/1/f5/671178/1493c24bd2a519fad896d66f8f52e513.jpg)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ID_ВИДЕОРОЛИКА_НА_YOUTUBE" target="_blank"><img src="http://img.youtube.com/vi/ID_ВИДЕОРОЛИКА_НА_YOUTUBE/0.jpg" 
+alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
