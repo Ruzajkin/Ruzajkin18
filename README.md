@@ -26,4 +26,4 @@
 - Или минусами
 + Или плюсами
 
-!.[kartinka].(https://placehold.it/150x100)
+!.[kartinka].(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTjdLQxsXkAhVVAxAIHUC-A4MQjRx6BAgBEAQ&url=http%3A%2F%2Fdagpravda.ru%2Fsport%2Fborba-v-centre-volejbola%2F&psig=AOvVaw0ZtpT60BGPC95rnR0DZTwq&ust=1568180732642001)
