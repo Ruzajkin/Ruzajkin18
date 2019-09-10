@@ -26,4 +26,4 @@
 - Или минусами
 + Или плюсами
 
-![kartinka](https://pp.userapi.com/c308930/v308930113/9945/DWpmoSxhLCo.jpg)
+![kartinka](https://static1-repo.aif.ru/1/f5/671178/1493c24bd2a519fad896d66f8f52e513.jpg)
